@@ -2,7 +2,7 @@
 title: '吴勇清的独立博客'
 description: '这个人很懒，没有留下什么'
 keyword: '吴勇清, 吴勇清的独立博客, 吴勇清的博客, 后端, 后端开发, 后端博客, java'
-url: '' # your host
+url: 'https://wuyongqing.github.io/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
