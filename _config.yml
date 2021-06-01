@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '吴勇清的独立博客'
+home-title: '吴勇清的独立博客'
 description: '这个人很懒，没有留下什么'
 keyword: '吴勇清, 吴勇清的独立博客, 吴勇清的博客, 后端, 后端开发, 后端博客, java'
 url: 'https://wuyongqing.github.io/' # your host
